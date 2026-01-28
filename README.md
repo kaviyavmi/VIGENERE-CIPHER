@@ -49,7 +49,7 @@ STEP-8: Repeat the above steps to generate the entire cipher text.
  printf("Decrypted Message: %s\n", text);
  return 0;
  }
-
+```
 
 ## OUTPUT
 
